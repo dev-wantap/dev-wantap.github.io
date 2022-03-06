@@ -21,9 +21,9 @@
 title: Gwanwoo Kim
 email: gwk1125@hanyang.ac.kr
 description: >- # this means to ignore newlines until "baseurl:"
-  한양대학교 ERICA에서 소프트웨어전공으로 재학중이며, 엑세스랩에서 
+  한양대학교 ERICA에서 소프트웨어전공 재학중이며, 엑세스랩에서 
   소프트웨어 엔지니어로 근무하고 있습니다.
-  ---
+  
   I am in Computer Science major at Hanyang University's ERICA and
   I work as a software engineer at XSLAB.
 baseurl: "" # the subpath of your site, e.g. /blog
